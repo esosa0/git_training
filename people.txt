@@ -7,11 +7,3 @@ I like to cook.
 Hi I'm Betty.
 I like to play soccer.
 
-<<<<<<< HEAD
-Hi I'm Julio.
-I like to dance.
-=======
-Hi, I'm Lisa.
-I like to listen to music.
-
->>>>>>> b83b0ffb4424571e54fa594590b4724bc3a59bfb
