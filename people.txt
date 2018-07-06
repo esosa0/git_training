@@ -7,11 +7,5 @@ I like to cook.
 Hi I'm Betty.
 I like to play soccer.
 
-<<<<<<< HEAD
-Hi, I'm Lisa.
-I like to listen to music.
-
-=======
-Hi I'm Julio.
-I like to dance.
->>>>>>> master
+Hi I'm Sean.
+I'm Australian. Cool. I'm going on holiday tomorrow to SLC.
